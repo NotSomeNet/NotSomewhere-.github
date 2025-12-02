@@ -2,21 +2,22 @@
 ### Offensive Security • Red Teaming • Exploit Development
 
 Ich bin ein angehender Offensive Security Engineer aus Österreich.  
-Ich arbeite täglich mit Arch Linux, entwickle eigene offensive Tools  
-und fokussiere mich auf Red Team Tactics & Exploit Development Grundlagen.
+Ich arbeite täglich mit Arch Linux, lerne offensives Tooling,  
+Exploit-Basics und baue Step-by-Step ein technisches OffSec-Portfolio auf.
 
-Derzeit bin ich in der IT-Systemtechniker-Lehre (Bechtle Wien).
+Derzeit bin ich in einer IT-Systemtechniker-Lehre (Bechtle Wien)  
+und spezialisiere mich privat auf Cyber Security.
 
 ---
 
 ## 🧠 Schwerpunkte
 
 - Offensive Security Engineering  
-- Red Team Tactics (technisch)  
-- Exploit Development Basics  
-- Linux Hardening  
+- Technisches Red Teaming (ohne Social Engineering)  
+- Exploit Development Grundlagen  
+- Linux Hardening & Networking  
 - Python Security Tools  
-- CTFs (TryHackMe / HackTheBox)
+- CTFs: TryHackMe & HackTheBox
 
 ---
 
@@ -61,25 +62,18 @@ Derzeit bin ich in der IT-Systemtechniker-Lehre (Bechtle Wien).
 
 ---
 
-## 📂 Projekte (Auswahl)
+## 📂 Projekte
 
-### **offsec-tools**
-Python/Bash Tools für Recon, Bruteforce und Scanning.
+Ich baue mein OffSec-Portfolio aktuell auf.  
+Die ersten Repositories werden in den Bereichen entstehen:
 
-### **exploit-dev**
-Basic Exploit Development, Buffer Overflows, GDB-Workflows.
+- **Python Security Tools** (Recon, Bruteforce, Scanning)  
+- **Exploit Development Übungen** (Buffer Overflows, GDB-Workflows)  
+- **Reverse Engineering Lernprojekte**  
+- **Raspberry-Pi Honeypot**  
+- **TryHackMe / HTB Notes** *(privat)*
 
-### **malware-labs**
-Lernprojekte zur Obfuscation & Reverse Engineering.
-
-### **honeypot-enhanced**
-Erweiterter Raspberry-Pi-Honeypot mit Logging & Angriffserkennung.
-
-### **python-security-tools**
-Kleine Networking/OffSec Skripte.
-
-### **ctf-writeups** *(privat empfohlen)*  
-TryHackMe & HackTheBox Notes.
+Die Repos werden laufend ergänzt, sobald fertige Tools und Labs entstehen.
 
 ---
 
@@ -89,15 +83,15 @@ TryHackMe & HackTheBox Notes.
 - PNPT  
 - OSCP  
 - CRTO I  
-- HackTheBox „Pro Hacker“  
-- Einstieg als Offensive Security Engineer
+- HackTheBox: „Pro Hacker“  
+- Einstieg als Offensive Security Engineer  
 
 ---
 
 ## 📫 Kontakt
 
-**GitHub:** https://github.com/NotSomewhere  
-(E-Mail folgt später)
+**E-Mail:** notsomewhere@proton.me  
+**GitHub:** https://github.com/NotSomewhere
 
 ---
 
