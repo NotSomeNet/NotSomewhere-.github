@@ -1,4 +1,4 @@
-# NotSomewhere ![TryHackMe Badge](https://tryhackme.com/badges/public-profile/3330193)
+# NotSomewhere 
 
 ### Offensive Security • Red Teaming • Exploit Development
 
@@ -9,7 +9,7 @@ Exploit-Basics und baue Step-by-Step ein technisches OffSec-Portfolio auf.
 Derzeit bin ich in einer IT-Systemtechniker-Lehre
 und spezialisiere mich privat auf Cyber Security.
 
-
+[![TryHackMe Badge](https://tryhackme.com/badges/public-profile/3330193)](https://tryhackme.com/p/NotSomewhere
 
 ---
 
