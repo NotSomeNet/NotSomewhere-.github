@@ -63,10 +63,9 @@ und spezialisiere mich privat auf Cyber Security.
 
 ---
 
-## 📂 Projekte
+## 📂 /home/Notsomewhere
 
-Ich baue mein OffSec-Portfolio aktuell auf.  
-**In arbeit**
+Im a young man, who is just very interessted in CyberSecurity
 
 
 ---
