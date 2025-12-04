@@ -65,9 +65,6 @@ und spezialisiere mich privat auf Cyber Security.
 
 ## 📂 /home/Notsomewhere
 
-Ich bin ein Jung, jedoch nicht schlecht.
-
-
 ---
 
 ## 📫 Kontakt
